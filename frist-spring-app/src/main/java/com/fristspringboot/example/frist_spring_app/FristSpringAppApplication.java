@@ -9,7 +9,7 @@ public class FristSpringAppApplication {
 	public static void main(String[] args) {
 
 		SpringApplication.run(FristSpringAppApplication.class, args);
-		System.out.println("hello");
+		System.out.println("hello world");
 	}
 
 }
